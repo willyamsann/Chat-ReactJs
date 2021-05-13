@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 Chat React Js</a>
+    <a href="https://pt-br.reactjs.org/">:speech_balloon: Chat React Js</a>
 </h1>
 <p align="center">🚀 Projeto feito em React-Js usando Socket.io, com intuito de treina as habilidade de comunicação com Socket</p>
 
