@@ -5,18 +5,25 @@
 </h1>
 <p align="center">🚀 Projeto feito em React-Js usando Socket.io, com intuito de treina as habilidade de comunicação com Socket</p>
 
-## Running it
+### Pré-requisitos
 
-First, grab the dependencies:
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-    npm install
+### 🎲 Rodando o Chat
 
-Build the applicaiton
-	
-	npm run build
+```bash
+# Clone este repositório
 
-Then run the app like so:
+# Instale as dependências
+$ npm install
 
-    npm start
+# Construa o Aplicativo
+$ npm run build
 
-And navigate to `localhost:3000` and chat !
+# Agora pode iniciar o App
+$ npm start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3333>
+```
