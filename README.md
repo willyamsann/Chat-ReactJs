@@ -29,31 +29,3 @@ $ npm start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3333>
 ```
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-
-- [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## Bibiliotecas
-
-- [Material/UI]
-- [Classnames]
-- [react-countup]
-- [Axios]
-
-
-### 🛠 API
-
-A Seguinte API para desenvolver esse App:
-https://covid19.mathdro.id/api
-
-
-Willyam Santos 🚀
-Feito com ❤️ por Willyam Santos 👋🏽 Entre em contato!
-
-Twitter Badge Linkedin Badge Gmail Badge
-
